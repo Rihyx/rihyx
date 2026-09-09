@@ -47,7 +47,7 @@ What that looks like in practice: platforms at 30k+ daily users, 20+ PSD2 bankin
 ### Stack
 
 <p>
-  <strong>Core</strong><br/>
+  <strong>Core stack</strong><br/>
   <img src="https://img.shields.io/badge/Node.js-0a0c10?style=for-the-badge&logo=nodedotjs&logoColor=9bb0c2" alt="Node.js" />
   <img src="https://img.shields.io/badge/TypeScript-0a0c10?style=for-the-badge&logo=typescript&logoColor=9bb0c2" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-0a0c10?style=for-the-badge&logo=react&logoColor=9bb0c2" alt="React" />
@@ -57,22 +57,22 @@ What that looks like in practice: platforms at 30k+ daily users, 20+ PSD2 bankin
 
 <p>
   <strong>Backend</strong><br/>
+  <img src="https://img.shields.io/badge/tRPC-0a0c10?style=for-the-badge&logo=trpc&logoColor=9bb0c2" alt="tRPC" />
   <img src="https://img.shields.io/badge/NestJS-0a0c10?style=for-the-badge&logo=nestjs&logoColor=9bb0c2" alt="NestJS" />
   <img src="https://img.shields.io/badge/Express-0a0c10?style=for-the-badge&logo=express&logoColor=9bb0c2" alt="Express" />
-  <img src="https://img.shields.io/badge/tRPC-0a0c10?style=for-the-badge&logo=trpc&logoColor=9bb0c2" alt="tRPC" />
-  <img src="https://img.shields.io/badge/REST_API-0a0c10?style=for-the-badge&logoColor=9bb0c2" alt="REST API" />
+  <img src="https://img.shields.io/badge/REST_APIs-0a0c10?style=for-the-badge&logoColor=9bb0c2" alt="REST APIs" />
   <img src="https://img.shields.io/badge/RabbitMQ-0a0c10?style=for-the-badge&logo=rabbitmq&logoColor=9bb0c2" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/gRPC-0a0c10?style=for-the-badge&logo=grpc&logoColor=9bb0c2" alt="gRPC" />
   <img src="https://img.shields.io/badge/EventBridge-0a0c10?style=for-the-badge&logoColor=9bb0c2" alt="EventBridge" />
-  <img src="https://img.shields.io/badge/Gemini-0a0c10?style=for-the-badge&logo=googlegemini&logoColor=9bb0c2" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Google_GenAI-0a0c10?style=for-the-badge&logo=googlegemini&logoColor=9bb0c2" alt="Google GenAI" />
 </p>
 
 <p>
-  <strong>Data</strong><br/>
+  <strong>Databases</strong><br/>
   <img src="https://img.shields.io/badge/PostgreSQL-0a0c10?style=for-the-badge&logo=postgresql&logoColor=9bb0c2" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-0a0c10?style=for-the-badge&logo=mongodb&logoColor=9bb0c2" alt="MongoDB" />
   <img src="https://img.shields.io/badge/DynamoDB-0a0c10?style=for-the-badge&logo=amazondynamodb&logoColor=9bb0c2" alt="DynamoDB" />
-  <img src="https://img.shields.io/badge/Drizzle-0a0c10?style=for-the-badge&logo=drizzle&logoColor=9bb0c2" alt="Drizzle" />
-  <img src="https://img.shields.io/badge/Zod-0a0c10?style=for-the-badge&logo=zod&logoColor=9bb0c2" alt="Zod" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-0a0c10?style=for-the-badge&logo=drizzle&logoColor=9bb0c2" alt="Drizzle ORM" />
 </p>
 
 <p>
@@ -80,14 +80,17 @@ What that looks like in practice: platforms at 30k+ daily users, 20+ PSD2 bankin
   <img src="https://img.shields.io/badge/React-0a0c10?style=for-the-badge&logo=react&logoColor=9bb0c2" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-0a0c10?style=for-the-badge&logo=nextdotjs&logoColor=9bb0c2" alt="Next.js" />
   <img src="https://img.shields.io/badge/TanStack_Query-0a0c10?style=for-the-badge&logo=reactquery&logoColor=9bb0c2" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/TanStack_Form-0a0c10?style=for-the-badge&logo=reacthookform&logoColor=9bb0c2" alt="TanStack Form" />
+  <img src="https://img.shields.io/badge/TanStack_Form-0a0c10?style=for-the-badge&logoColor=9bb0c2" alt="TanStack Form" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0a0c10?style=for-the-badge&logo=tailwindcss&logoColor=9bb0c2" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-0a0c10?style=for-the-badge&logo=shadcnui&logoColor=9bb0c2" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/Mantine-0a0c10?style=for-the-badge&logo=mantine&logoColor=9bb0c2" alt="Mantine" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-0a0c10?style=for-the-badge&logo=shadcnui&logoColor=9bb0c2" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Server_Components-0a0c10?style=for-the-badge&logo=nextdotjs&logoColor=9bb0c2" alt="Server Components" />
+  <img src="https://img.shields.io/badge/Recharts-0a0c10?style=for-the-badge&logoColor=9bb0c2" alt="Recharts" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-0a0c10?style=for-the-badge&logo=reacthookform&logoColor=9bb0c2" alt="React Hook Form" />
 </p>
 
 <p>
-  <strong>Testing</strong><br/>
+  <strong>Testing & quality</strong><br/>
   <img src="https://img.shields.io/badge/Vitest-0a0c10?style=for-the-badge&logo=vitest&logoColor=9bb0c2" alt="Vitest" />
   <img src="https://img.shields.io/badge/Jest-0a0c10?style=for-the-badge&logo=jest&logoColor=9bb0c2" alt="Jest" />
   <img src="https://img.shields.io/badge/Playwright-0a0c10?style=for-the-badge&logo=playwright&logoColor=9bb0c2" alt="Playwright" />
@@ -96,13 +99,12 @@ What that looks like in practice: platforms at 30k+ daily users, 20+ PSD2 bankin
 <p>
   <strong>Web3</strong><br/>
   <img src="https://img.shields.io/badge/Polkadot-0a0c10?style=for-the-badge&logo=polkadot&logoColor=9bb0c2" alt="Polkadot" />
-  <img src="https://img.shields.io/badge/Moonbeam-0a0c10?style=for-the-badge&logo=ethereum&logoColor=9bb0c2" alt="Moonbeam" />
+  <img src="https://img.shields.io/badge/Moonbeam_EVM-0a0c10?style=for-the-badge&logo=ethereum&logoColor=9bb0c2" alt="Moonbeam EVM" />
   <img src="https://img.shields.io/badge/Wormhole-0a0c10?style=for-the-badge&logoColor=9bb0c2" alt="Wormhole" />
-  <img src="https://img.shields.io/badge/Wagmi%2FViem-0a0c10?style=for-the-badge&logo=ethereum&logoColor=9bb0c2" alt="Wagmi/Viem" />
 </p>
 
 <p>
-  <strong>Cloud</strong><br/>
+  <strong>Cloud & DevOps</strong><br/>
   <img src="https://img.shields.io/badge/AWS_CDK-0a0c10?style=for-the-badge&logo=amazonwebservices&logoColor=9bb0c2" alt="AWS CDK" />
   <img src="https://img.shields.io/badge/Lambda-0a0c10?style=for-the-badge&logo=awslambda&logoColor=9bb0c2" alt="Lambda" />
   <img src="https://img.shields.io/badge/SQS-0a0c10?style=for-the-badge&logo=amazonsqs&logoColor=9bb0c2" alt="SQS" />
