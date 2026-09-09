@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Richard Kenigs - Senior Full-Stack Engineer</title>
+  <desc id="desc">Dark editorial profile banner for Richard Kenigs, based in Hamburg, open to work.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0c10"/>
+      <stop offset="55%" stop-color="#0e1218"/>
+      <stop offset="100%" stop-color="#12181f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7a92a8" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#9bb0c2"/>
+      <stop offset="65%" stop-color="#c5d2de"/>
+      <stop offset="100%" stop-color="#7a92a8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#8fa6b8" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#8fa6b8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="82%" cy="28%" r="42%">
+      <stop offset="0%" stop-color="#6d8498" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#6d8498" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#orb)"/>
+  <rect x="0" y="0" width="1200" height="160" fill="url(#glow)"/>
+
+  <!-- subtle grid -->
+  <g stroke="#1c2430" stroke-width="1" opacity="0.55">
+    <path d="M0 90 H1200"/>
+    <path d="M0 270 H1200"/>
+    <path d="M180 0 V360"/>
+    <path d="M1020 0 V360"/>
+  </g>
+
+  <!-- accent hairline -->
+  <rect x="180" y="118" width="840" height="1" fill="url(#accent)"/>
+
+  <text
+    x="600"
+    y="168"
+    text-anchor="middle"
+    font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="58"
+    font-weight="600"
+    letter-spacing="1.5"
+    fill="#eef3f7"
+  >Richard Kenigs</text>
+
+  <text
+    x="600"
+    y="214"
+    text-anchor="middle"
+    font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="22"
+    font-weight="500"
+    letter-spacing="4"
+    fill="#9bb0c2"
+  >SENIOR FULL-STACK ENGINEER</text>
+
+  <text
+    x="600"
+    y="268"
+    text-anchor="middle"
+    font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="16"
+    font-weight="400"
+    letter-spacing="1.2"
+    fill="#7d8d9c"
+  >Hamburg  &#183;  Node.js  &#183;  TypeScript  &#183;  React  &#183;  AWS</text>
+
+  <!-- open to work pill -->
+  <rect x="470" y="292" width="260" height="32" rx="16" fill="#15202b" stroke="#3d5568" stroke-width="1"/>
+  <circle cx="498" cy="308" r="5" fill="#6fbf8d"/>
+  <text
+    x="610"
+    y="313"
+    text-anchor="middle"
+    font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="13"
+    font-weight="600"
+    letter-spacing="1.5"
+    fill="#c8d5e0"
+  >OPEN TO WORK</text>
+</svg>
